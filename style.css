@@ -128,7 +128,7 @@ footer p {
 }
 
 body {
-    background-image: url("paint.jpg");
+    background-image: url("../Bootstrap-Portfolio/images/paint.jpg");
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
